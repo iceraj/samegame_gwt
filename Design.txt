@@ -1,0 +1,28 @@
+ClickOMania:
+	Classic version is to remove blocks and get points.
+	New version is to have assets - 20 blocks of each basic color 
+	and one's success is number of levels that can be finished before those blocks are used.
+	
+Score:
+	Level reached (number of puzzles cleared) * 100 + number of blocks left.
+	
+Problem: w:10 h:16 c:5
+
+Ones reserve is 32 blocks of each of 5 basic color ie. 160
+
+
+Gameplay:
+	there are 16x10x5 blocks to be removed with basic rule
+	there are 32x5 blocks that are reserve
+	there are 32 random lines that can be dropped.
+	one can drop random line to try to clear more blocks
+	
+	Score is number of blocks cleared
+	
+Later levels bonus features:
+	different block that acts as 'universal match'
+	different block that acts as 'bomb' removing 9 elements
+	block + modifier that has 'lock - ie. not clickabe'
+	different block that acts as 'glass block' breaks when block above it falls on it
+
+http://en.wikipedia.org/wiki/SameGame
